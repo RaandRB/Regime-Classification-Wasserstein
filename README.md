@@ -1,0 +1,1 @@
+Exploring how k-means with the Wasserstein distance between distributions can be used for regime detection in 1D, and how k-means with sliced Wasserstein distance can be used for multiple dimensions. Also (probably) examining how online/streaming variants might look like and other clustering algorithms can apply the Wasserstein distance for this purpose.
